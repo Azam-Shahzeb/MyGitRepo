@@ -1,6 +1,6 @@
 public class Employee()
 {
-	void Employees(){
+	public void Employees(){
 		
 		System.out.println("This is Employee class");
 		System.out.println("done");
